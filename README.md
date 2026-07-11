@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Lack54/Lack54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

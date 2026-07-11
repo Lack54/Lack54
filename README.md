@@ -12,4 +12,6 @@
 
 ## github stats
 
-![](https://streak-stats.demolab.com/?user=Lack54&theme=holi&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Lack54&theme=nord&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lack54&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+

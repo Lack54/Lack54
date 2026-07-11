@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Making projects with C++, C#, and Unity<br>- Interested in orbital mechanics, simulations, and embedded systems<br>- Musician
+- Making projects with C++, C#, and Unity<br>
+- Interested in orbital mechanics, simulations, and embedded systems<br>
+- Musician
   
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lack54&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 

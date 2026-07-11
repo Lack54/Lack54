@@ -1,10 +1,15 @@
-- 💻 Building projects with **C++**, **C#**, and **Unity**
-- 🚀 Interested in **orbital mechanics**, **simulations**, and **embedded systems**
-- 🥁 Musician
+# hi, i'm lack
 
+## what i do
+
+- building projects with **c++**, **c#**, and **unity**
+- interested in **orbital mechanics**, **simulations**, and **game modding**
+- musician and golfer
+  
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,unity,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,unity" />
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lack54&layout=compact&theme=catppuccin_mocha&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=Lack54&color=brightgreen)
+## github stats
+
+![](https://streak-stats.demolab.com/?user=Lack54&theme=holi&hide_border=false)

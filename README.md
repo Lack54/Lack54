@@ -4,7 +4,7 @@
 
 - building projects with **c++**, **c#**, and **unity**
 - interested in **orbital mechanics**, **simulations**, and **game modding**
-- musician and golfer
+- drummer
   
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,unity" />
